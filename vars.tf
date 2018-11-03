@@ -1,6 +1,7 @@
 variable  "region" {}
 variable  "instancetype" {}
 variable  "count" {}
+variable "sshkeyname" {}
 
 
 

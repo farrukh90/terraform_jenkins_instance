@@ -8,9 +8,9 @@ variable "amis" {
   type = "map" 
 
   default = {
-    eu-west-1 = "ami-6e28b517"
-    us-east-1 = "ami-4bf3d731"
-    us-west-2 = "ami-a042f4d8"
+    eu-west-1 = "ami-0a5e707736615003c"
+    us-east-1 = "ami-013be31976ca2c322"
+    us-west-2 = "ami-061e7ebbc234015fe"
   }
 }
 
